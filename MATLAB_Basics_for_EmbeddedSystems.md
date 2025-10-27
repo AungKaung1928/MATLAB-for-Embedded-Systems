@@ -1,8 +1,7 @@
 # MATLAB Basics for Embedded Systems & IoT Engineering
 
 ## Overview
-This guide covers essential MATLAB concepts for mechanical engineers transitioning to embedded systems and IoT. You'll learn how MATLAB can prototype, simulate, and control embedded applications.
-
+This guide covers essential MATLAB concepts for mechanical engineers transitioning to embedded systems and IoT. 
 ---
 
 ## Table of Contents
@@ -686,29 +685,3 @@ whos                    % Show all variables with info
 ```
 
 ---
-
-## Next Steps
-
-1. **Start Simple**: Modify the examples above
-2. **Hardware Integration**: Learn to connect MATLAB with Arduino or Raspberry Pi
-3. **Real-Time Processing**: Explore Simulink for real-time simulation
-4. **Advanced Topics**: Signal processing, control systems design, machine learning
-5. **GitHub**: Commit your practice code and build your portfolio
-
----
-
-## Resources for Further Learning
-
-- **MATLAB Official Documentation**: https://www.mathworks.com/help/
-- **Arduino + MATLAB**: IoT and embedded systems integration
-- **Simulink**: Model-based design for embedded systems
-- **MATLAB Cody**: Coding challenges to improve skills
-- **GitHub Projects**: Learn from other embedded systems projects
-
----
-
-## License and Notes
-
-This guide is designed for self-learning and educational purposes. As you progress to embedded systems and IoT, you'll apply these fundamentals in real hardware projects.
-
-Good luck on your journey from mechanical design to embedded systems engineering! 🚀
