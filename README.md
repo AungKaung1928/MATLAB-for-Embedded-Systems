@@ -39,27 +39,3 @@ A comprehensive beginner's guide to MATLAB for mechanical engineers transitionin
 2. Try each code example in MATLAB
 3. Modify examples with your own sensor data
 4. Progress to hardware integration (Arduino, Raspberry Pi)
-
-## 📝 License
-
-MIT License - Feel free to use and modify for learning purposes
-
-## 🤝 Contributing
-
-Found an issue or want to add more examples? Feel free to contribute!
-
----
-
-**Author**: Your Name  
-**Last Updated**: October 2025
-```
-
-4. Click **Commit changes**
-
----
-
-## Final Repository URL
-
-Once uploaded, your repository will be at:
-```
-https://github.com/YOUR_USERNAME/MATLAB-for-Embedded-Systems
