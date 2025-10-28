@@ -1,4 +1,4 @@
-# MATLAB for Embedded Systems & IoT Engineering
+# MATLAB for Embedded System & IoT Engineering
 
 A comprehensive beginner's guide to MATLAB for mechanical engineers transitioning to embedded systems and IoT development.
 
